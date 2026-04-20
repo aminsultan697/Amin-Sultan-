@@ -1,6 +1,6 @@
-// Name: Anus Abbas Khan
+// Name: Amin Sultan 
 // Department: Electrical Engineering (power)
-// Registration No: BF25NWELE0723
+// Registration No: BF25NWELE0737
 // Section: A
 
 
