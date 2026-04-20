@@ -1,8 +1,7 @@
-// Name: Anus Abbas Khan
-// Department: Electrical Engineering (power)
-// Registration No: BF25NWELE0723
+// Name: Amin Sultan
+// Department: Electrical Engineering (Power)
+// Registration No: BF25NWELE0737
 // Section: A
-
 
 #include <iostream>   // library ha iostream ma 
 using namespace std;  // standard name use krny k liay add kiay han
