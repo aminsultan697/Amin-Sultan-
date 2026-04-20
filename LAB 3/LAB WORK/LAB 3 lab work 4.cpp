@@ -1,5 +1,5 @@
 // Name: Amin Sultan 
-// Department: Electrical Engineering (AI)
+// Department: Electrical Engineering (power)
 // Registration No: BF25NWELE0737
 // Section: A
 
