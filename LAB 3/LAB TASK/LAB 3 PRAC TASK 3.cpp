@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
+// Name: Amin Sultan 
 // Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Registration No: BF25NWELE0737
+// Section: A
 
 
 
